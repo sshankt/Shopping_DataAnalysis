@@ -2,7 +2,7 @@
 
 Welcome to the Shopping Data Analysis repository! This project dives into a shopping dataset sourced from Kaggle to uncover valuable insights that can guide strategic business decisions. By analyzing consumer behavior, purchase patterns, and preferences, this study aims to empower businesses to optimize marketing, sales, and customer experiences.
 
-![Shopping Data Analysis](shopping.jpeg)
+![Shopping Data Analysis](shopping.jpg)
 
 
 ## 🔍 Key Insights
